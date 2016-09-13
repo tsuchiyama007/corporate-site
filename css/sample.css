@@ -2,7 +2,7 @@ html{
 	font-size:62.5%;
 }
 header{
-	background:#eaf2f4
+	background:#eaf2f4;
 }
 header #header_in{
 	padding-top:10px;
@@ -150,7 +150,7 @@ header #header_in{
 @media screen and (-webkit-min-device-pixel-ratio: 2), 
 (min-resolution: 2dppx){
 	#cover_area{
-		background-image:url("../images/top/cover@2x.jpg")
+		background-image:url("../images/top/cover@2x.jpg");
 	}
 }
 
